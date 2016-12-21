@@ -4,6 +4,7 @@ Curated list of data science blogs from various companies
 
 * Airbnb Nerds Blog : http://nerds.airbnb.com/
 * Bolt Data Blog : https://boltdata.io/blog/
+* Domino Data Lab Blog : https://blog.dominodatalab.com/
 * Facebook Research Blog : https://research.fb.com/blog/
 * Google Unofficial Data Science Blog : http://www.unofficialgoogledatascience.com/
 * Instagram Engineering Blog : https://engineering.instagram.com/all
